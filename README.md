@@ -17,7 +17,7 @@ make
 
 ---
 
-## 5. Initialize the Git Repository
+## Initialize the Git Repository
 
 You can initialize the repository like this:
 
@@ -31,6 +31,6 @@ git commit -m "init: LeetCode C++ project with CMake and first problem (two_sum)
 
 ---
 
-## 6. Adding New Problems
+## Adding New Problems
 
 To add a new problem, simply create a new directory under `problems/` following the structure of `two_sum`. CMake will automatically detect and build it.
