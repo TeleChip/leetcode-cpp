@@ -1,0 +1,2 @@
+add_executable(longest_substring_without_repeating_characters main.cpp)
+target_include_directories(longest_substring_without_repeating_characters PRIVATE ${CMAKE_CURRENT_SOURCE_DIR})
